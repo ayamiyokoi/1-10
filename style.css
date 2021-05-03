@@ -75,5 +75,20 @@ h3 {
 @media screen and (max-width: 768px) {
   .main {
     display: block;
+    width: 100%;
+  }
+
+  .main-box {
+    width: 90%;
+    margin: 0 auto 20px;
+  }
+  .image1 {
+    width: 100%;
+  }
+  .image2 {
+    width: 100%;
+  }
+  .image3 {
+    width: 100%;
   }
 }
